@@ -3,13 +3,16 @@ body {
     background: linear-gradient(to left, #121FCF 0%, #CF1512 100%);
 }
 
+h1 {
+    text-align: center;
+}
+
 .logo {
     font-size: 70px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
     text-transform: uppercase;
-    text-align: center;
     text-shadow: 1px 1px 0px #b7b7b7,
                  1px 2px 0px #b7b7b7,
                  1px 3px 0px #b7b7b7,
