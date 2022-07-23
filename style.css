@@ -1,6 +1,12 @@
+@font-face {
+    font-family: Gagalin;
+    src: url(gagalin.otf);
+}
+
 body {
-    background: #121FCF;
-    background: linear-gradient(to left, #121FCF 0%, #CF1512 100%);
+    background: url(background.jpeg);
+    background-repeat: repeat;
+    background-size: 830px;
 }
 
 .logo {
@@ -20,4 +26,31 @@ body {
                  1px 20px 30px rgba(16, 16, 16, 0.3),
                  1px 25px 50px rgba(16, 16, 16, 0.2);
     text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+    color:white;
+}
+
+.head {
+    font-family: Gagalin;
+    color: white;
+    text-align: center;
+    font-size: 250px;
+}
+
+.button {
+    width: 100%;
+    height: 720px;
+    background-color: transparent;
+    color: white;
+    font-family: Gagalin;
+    font-size: 100px;
+    margin-top: -350px;
+    border-color: transparent;
 }
