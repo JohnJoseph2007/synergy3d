@@ -3,11 +3,11 @@
     src: url(gagalin.otf);
 }
 
-body {
+/*body {
     background: url(pattern.jpg);
     background-repeat: repeat;
     background-size: 830px;
-}
+}*/
 
 .logo {
     font-size: 70px;
