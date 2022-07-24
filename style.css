@@ -49,7 +49,9 @@ body {
     width: 100%;
     height: 720px;
     background-color: transparent;
-    color: linear-gradient(to bottom right, black, #ff004c);
+    background: #000000;
+    background: linear-gradient(to bottom right, #000000 0%, #FF004C 100%);
+    -webkit-text-fill-color: transparent;
     font-family: Gagalin;
     font-size: 100px;
     margin-top: -250px;
