@@ -52,8 +52,9 @@
     color: black;
     font-family: Gagalin;
     font-size: 100px;
-    margin-top: -750px;
     margin-bottom: -100px;
+    margin-left: 0px;
+    margin-right:0px;
     border-color: transparent;
     
 }
