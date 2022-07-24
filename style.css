@@ -49,13 +49,11 @@ body {
     width: 100%;
     height: 720px;
     background-color: transparent;
-    background: #000000;
-    background: linear-gradient(to bottom right, #000000 0%, #FF004C 100%);
-    -webkit-text-fill-color: transparent;
+    color: black;
     font-family: Gagalin;
     font-size: 100px;
     margin-top: -250px;
     margin-bottom: -100px;
     border-color: transparent;
-
+    
 }
