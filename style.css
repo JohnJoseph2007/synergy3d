@@ -43,6 +43,7 @@ body {
     text-align: center;
     font-size: 250px;
     margin-bottom: 0px;
+    opacity: 100%;
 }
 
 .button {
@@ -54,5 +55,8 @@ body {
     font-size: 100px;
     margin-top: -250px;
     margin-bottom: -100px;
+    margin-left: -10px;
+    margin-right: -10px;
     border-color: transparent;
+    opacity: 94%;
 }
